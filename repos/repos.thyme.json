@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Thyme-KernelSU-Proton",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
-      "branch": "lineage-20.0",
-      "device": "thyme",
-      "defconfig": "thyme_defconfig"
+      "name": "KernelSU-Lineageos",
+      "repo": "https://github.com/0warning0error/android_kernel_motorola_sm8250",
+      "branch": "lineage-20",
+      "device": "edge 20 pro",
+      "defconfig": "defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
