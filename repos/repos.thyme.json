@@ -21,6 +21,7 @@
       "ARCH": "arm64",
       "CC": "proton-clang/bin/clang",
       "externalCommand": {
+        "DTC" : "dtc",
         "CROSS_COMPILE": "proton-clang/bin/aarch64-linux-gnu-",
         "LD": "proton-clang/bin/ld.lld",
         "AR": "proton-clang/bin/llvm-ar",
